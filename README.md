@@ -3,7 +3,7 @@
 # Calaoagan, Sean Jefferson M. - Portfolio
 
 ## About Me
-Aspiring developer with experience in web development and software engineering.
+Aspiring AI Developer with experience in web development and game development.
 
 ## Resume
 [Download My Resume](https://github.com/Xian-Shizukana/calaoagan-portfolio/blob/main/Calaoagan%20-%20Resume.pdf)
@@ -17,8 +17,10 @@ Aspiring developer with experience in web development and software engineering.
 - Description: Website Portfolio made for my finals
 - Tech Stack: HTML & CSS
 - GitHub: https://github.com/Xian-Shizukana/shizukanaportfolio
+- Website Link: https://shizukanaportfolio.pages.dev/
 ## Skills
 - Python
+- C++
 - HTML
 - CSS
 - Java
