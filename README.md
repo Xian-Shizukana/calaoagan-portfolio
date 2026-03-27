@@ -15,7 +15,7 @@ Aspiring developer with experience in web development and software engineering.
 - GitHub: https://github.com/Xian-Shizukana/BetweenTwoWorlds
 ### Project 2: Website Portfolio
 - Description: Website Portfolio made for my finals
-- Tech Stack: HTML 
+- Tech Stack: HTML & CSS
 - GitHub: https://github.com/Xian-Shizukana/shizukanaportfolio
 ## Skills
 - Python
