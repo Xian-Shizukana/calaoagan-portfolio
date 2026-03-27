@@ -6,7 +6,7 @@
 Aspiring developer with experience in web development and software engineering.
 
 ## Resume
-[Download My Resume](link-to-your-cv.pdf)
+[Download My Resume](https://github.com/Xian-Shizukana/calaoagan-portfolio/blob/main/Calaoagan%20-%20Resume.pdf)
 
 ## Projects
 ### Project 1: Between Two Worlds
